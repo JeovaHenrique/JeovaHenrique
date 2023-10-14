@@ -1,5 +1,7 @@
 ### Oi, Me Chame Jeová 👋
 
+Desenvolvedor Mobile especializado em Android Nativo e React Native, comprovada experiência no desenvolvimento de aplicativos móveis para o gerenciamento e cadastramento de cursos. Proficiente em linguagens de programação como Java e JavaScript, além de possuir amplo domínio dos frameworks Angular e React. Minhas habilidades técnicas sólidas, como clean code, design patterns, testes unitários e arquiteturas de projetos como MVVM e MVC, combinadas com minha criatividade, me capacitam a entregar soluções de software de alta qualidade que atendem aos requisitos do cliente e superam suas expectativas.
+
 <div align="center">
   <a href="https://github.com/JeovaHenrique">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeovaHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
