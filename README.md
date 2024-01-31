@@ -1,6 +1,6 @@
 ### Oi, Me Chame Jeová 👋
 
-Desenvolvedor Mobile especializado em Android Nativo e React Native, comprovada experiência no desenvolvimento de aplicativos móveis para o gerenciamento e cadastramento de cursos. Proficiente em linguagens de programação como Java e JavaScript, além de possuir amplo domínio dos frameworks Angular e React. Minhas habilidades técnicas sólidas, como clean code, design patterns, testes unitários e arquiteturas de projetos como MVVM e MVC, combinadas com minha criatividade, me capacitam a entregar soluções de software de alta qualidade que atendem aos requisitos do cliente e superam suas expectativas.
+Sou Desenvolvedor Fullstack especializado em Angular e Java, com vasta experiência no desenvolvimento de sistemas de transações financeiras, tanto em tecnologias web responsivas quanto em backend Spring Boot. Minhas habilidades de comunicação e criatividade permitem um trabalho em equipe eficaz e trago experiência anterior em gerenciamento de equipes, equipando-me com as capacidades para liderar e orientar de forma eficaz. Dedico-me a criar soluções inovadoras que atendam às necessidades dos clientes e usuários.
 
 <div align="center">
   <a href="https://github.com/JeovaHenrique">
